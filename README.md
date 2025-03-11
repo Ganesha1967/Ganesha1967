@@ -13,12 +13,8 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesha1967&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesha1967&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesha1967&" alt="GitHub Streak" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesha1967&show_icons=true&locale=en&layout=compact" alt="ganesha1967" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesha1967&show_icons=true&locale=en" alt="ganesha1967" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesha1967&" alt="ganesha1967" /></p>
