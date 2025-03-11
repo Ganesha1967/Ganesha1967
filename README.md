@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello World! 👋</h1>
+<h1 align="center">Hello, World! 👋</h1>
 
 - 🎓 I’m a **Software Engineering student at SPbU**
 - 🔨 Currently working on [vinni-task-bot](https://github.com/Ganesha1967/vinni-tracker-bot)
@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesha1967&show_icons=true&locale=en" alt="ganesha1967" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesha1967&" alt="ganesha1967" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesha1967&" alt="ganesha1967" /></p>
