@@ -2,7 +2,7 @@
 <h1 align="center">Hello, World! 👋</h1>
 
 - 🎓 I’m a **Software Engineering student at SPbU**
-- 🔨 Currently working on [vinni-task-bot](https://github.com/Ganesha1967/vinni-tracker-bot)
+- 🔨 Currently working on [vinni-tracker-bot](https://github.com/Ganesha1967/vinni-tracker-bot)
 - 🚀 Learning **backend development, system design, and Kotlin**
 
 ---
