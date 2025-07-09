@@ -1,22 +1,24 @@
-<table>
+<table align="center">
   <tr>
-    <td style="vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/Ganesha1967/Ganesha1967/main/art.jpg" width="200" alt="My Dev Card" />
+    <td style="vertical-align: middle; text-align: center;">
+      <img src="https://raw.githubusercontent.com/Ganesha1967/Ganesha1967/main/art.svg" width="200" alt="My Dev Card" />
     </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <h2> About Me</h2>
-      <h3>Languages</h3>
+    <td style="vertical-align: middle; padding-left: 40px;">
+      <h2>About Me</h2>
+      <h3>Languages & Tools</h3>
       <ul>
         <li>Java</li>
         <li>Kotlin</li>
         <li>C/C++</li>
+        <li>Bash</li>
       </ul>
       <p>
-        <a href="https://github.com/Ganesha1967">GitHub</a>
+        <a href="https://github.com/Ganesha1967">🌐 GitHub</a>
       </p>
     </td>
   </tr>
 </table>
+
 
 
 
