@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesha1967/Ganesha1967/main/art.jpg" width="250" alt="My Dev Card" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-</p>
-
 ## 🛠️ Tech Stack
 
 #### Languages & Frameworks
