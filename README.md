@@ -1,28 +1,32 @@
-## 🛠️ Tech Stack
 
-#### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-</p>
-
-#### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganesha1967&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesha1967&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="180">
-</div>
+                                           /\ /\
+                                          /  \---._
+                                         / / `     `\
+                                         \ \   `'<@)@)          
+                                         /`         ~ ~._       
+                                        /                `()   
+                                       /    \   (` ,_.:.  /  
+                                      / ~    `\   (vVvvvvV
+                                     /       |`\_ `^^^/
+                                 ___/________|_  `---'
+                                (_____R_E_X____) _
+                                _/~          | `(_)      --------------------------------------------------------
+                              _/~             \          | OS:.........................Linux                    |
+                            _/~               |          | Languages.Programming:......Java, Kotlin,C/C++       |
+                          _/~                 |          | Hobbies.Software:...........Android App Development  |
+                        _/~                   |          --------------------------------------------------------  
+                      _/~         ~.          |          
+                    _/~             \        /\
+                 __/~               /`\     `||
+               _/~      ~~-._     /~   \     ||
+              /~             ~./~'      \    |)
+             /                 ~.        \   )|
+            /                    :       |   ||
+            |                    :       |   ||
+            |                   .'       |   ||
+       __.-`                __.'--.      |   |`---.
+    .-~  ___.         __.--~`--.))))     |   `---.)))
+   
 
 
 
